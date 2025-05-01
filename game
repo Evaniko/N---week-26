@@ -15,7 +15,7 @@ questions_list.append(Question('3+3', '6', '7','10', '0'))
 
 
     
-app = QApplication([//])
+app = QApplication([])
 main_win = QWidget()
 main_win.cur_question = -1
 
