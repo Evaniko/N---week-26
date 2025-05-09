@@ -40,7 +40,7 @@ group_btn.addButton(btn_answer4)
 
 
 layout_main = QVBoxLayout()
-layoutH1 = QHBoxLayout(//)
+layoutH1 = QHBoxLayout()
 layoutH2 = QHBoxLayout()
 layoutH3 = QHBoxLayout()
 layoutH1.addWidget(question, alignment = Qt.AlignCenter)
