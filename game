@@ -107,7 +107,7 @@ def change():
     if btn.text() == 'Ответить':
         check_answer()
     else:
-        next_question()
+        next_question(//)
 
 next_question()
 btn.clicked.connect(change)
