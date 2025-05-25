@@ -19,7 +19,7 @@ app = QApplication([])
 main_win = QWidget()
 main_win.cur_question = -1
 
-main_win.setWindowTitle('Конкурс от Crazy People')//
+main_win.setWindowTitle('Конкурс от Crazy People')
 main_win.resize(400, 200)
 box = QGroupBox()
 box_answer = QGroupBox()
