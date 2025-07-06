@@ -39,7 +39,7 @@ group_btn.addButton(btn_answer3)
 group_btn.addButton(btn_answer4)
 
 
-layout_main = QVBoxLayout()
+layout_main = QVBoxLayout(//)
 layoutH1 = QHBoxLayout()
 layoutH2 = QHBoxLayout()
 layoutH3 = QHBoxLayout()
