@@ -60,7 +60,7 @@ box_answer.hide()
 layout_main.addWidget(btn, stretch=2)
 main_win.setLayout(layout_main)
  
-def show_answer(//):
+def show_answer():
     box.hide()
     box_answer.show()
     btn.setText('Следующий вопрос')
