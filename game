@@ -84,7 +84,7 @@ def ask(q: Question):
     answer[3].setText(q.wrong3)
     question.setText(q.question)
     
-    show_question()
+    show_question(//)
 def show_correct(res):
     answer_text.setText(res)
     show_answer()
