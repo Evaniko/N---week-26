@@ -67,7 +67,7 @@ def show_answer():
 
 def show_question():
     box.show()
-    box_answer.hide()
+    box_answer.hide(//)
     btn.setText('Ответить')
     group_btn.setExclusive(False)
     btn_answer1.setChecked(False)
