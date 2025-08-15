@@ -87,7 +87,7 @@ def ask(q: Question):
     show_question()
 def show_correct(res):
     answer_text.setText(res)
-    show_answer(//)
+    show_answer()
 def check_answer():
     if answer[0].isChecked():
         show_correct('правильный ответ')
