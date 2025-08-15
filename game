@@ -16,7 +16,7 @@ questions_list.append(Question('3+3', '6', '7','10', '0'))
 
     
 app = QApplication([])
-main_win = QWidget(//)
+main_win = QWidget()
 main_win.cur_question = -1
 
 main_win.setWindowTitle('Конкурс от Crazy People')
