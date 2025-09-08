@@ -29,7 +29,7 @@ layout_box.addWidget(answer_text, alignment=Qt.AlignCenter)
 box_answer.setLayout(layout_box)
 question = QLabel('В каком году канал получил «золотую кнопку» от YouTube?')
 group_btn = QButtonGroup()
-btn_answer1 = QRadioButton('2005')
+btn_answer1 = QRadioButton('2005')//
 btn_answer2 = QRadioButton('2010')
 btn_answer3 = QRadioButton('2015')
 btn_answer4 = QRadioButton('2020')
