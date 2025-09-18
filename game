@@ -46,7 +46,7 @@ layoutH3 = QHBoxLayout()
 layoutH1.addWidget(question, alignment = Qt.AlignCenter)
 layoutH2.addWidget(btn_answer1, alignment = Qt.AlignCenter)
 layoutH2.addWidget(btn_answer2, alignment = Qt.AlignCenter)
-layoutH3.addWidget(btn_answer3, alignment = Qt.AlignCenter)
+layoutH3.addWidget(btn_answer3, alignment = Qt.AlignCenter)//
 layoutH3.addWidget(btn_answer4, alignment = Qt.AlignCenter)
 layoutV1 = QVBoxLayout()
 layoutV1.addLayout(layoutH2)
