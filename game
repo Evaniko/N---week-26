@@ -62,7 +62,7 @@ main_win.setLayout(layout_main)
  
 def show_answer():
     box.hide()
-    box_answer.show()
+    box_answer.show()//
     btn.setText('Следующий вопрос')
 
 def show_question():
