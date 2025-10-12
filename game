@@ -10,7 +10,7 @@ class Question():
         self.wrong3 = wrong3
 
 questions_list = []
-questions_list.append(Question('2+2','4', '5', '6', '7'))**
+questions_list.append(Question('2+2','4', '5', '6', '7'))
 questions_list.append(Question('3+3', '6', '7','10', '0'))
 
 
