@@ -7,7 +7,7 @@ class Question():
         self.right_answer = right_answer
         self.wrong1 = wrong1
         self.wrong2 = wrong2
-        self.wrong3 = wrong3//
+        self.wrong3 = wrong3
 
 questions_list = []
 questions_list.append(Question('2+2','4', '5', '6', '7'))
