@@ -104,7 +104,7 @@ def next_question():
    
 
 def change():
-    if btn.text() == 'Ответить'://
+    if btn.text() == 'Ответить':
         check_answer()
     else:
         next_question()
