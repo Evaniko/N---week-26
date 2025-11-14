@@ -36,7 +36,7 @@ btn_answer4 = QRadioButton('2020')
 group_btn.addButton(btn_answer1)
 group_btn.addButton(btn_answer2)
 group_btn.addButton(btn_answer3)
-group_btn.addButton(btn_answer4)**
+group_btn.addButton(btn_answer4)
 
 
 layout_main = QVBoxLayout()
