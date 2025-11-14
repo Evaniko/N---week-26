@@ -23,7 +23,7 @@ main_win.setWindowTitle('Конкурс от Crazy People')
 main_win.resize(400, 200)
 box = QGroupBox()
 box_answer = QGroupBox()//
-layout_box = QVBoxLayout()//
+layout_box = QVBoxLayout()
 answer_text = QLabel('Прав ты или нет!')
 layout_box.addWidget(answer_text, alignment=Qt.AlignCenter)
 box_answer.setLayout(layout_box)
