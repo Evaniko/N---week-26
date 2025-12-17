@@ -27,7 +27,7 @@ layout_box = QVBoxLayout()
 answer_text = QLabel('Прав ты или нет!')
 layout_box.addWidget(answer_text, alignment=Qt.AlignCenter)
 box_answer.setLayout(layout_box)
-question = QLabel('В каком году канал получил «золотую кнопку» от YouTube?')
+question = QLabel('В каком году канал получил «золотую кнопку» от YouTube?')**
 group_btn = QButtonGroup()
 btn_answer1 = QRadioButton('2005')
 btn_answer2 = QRadioButton('2010')
