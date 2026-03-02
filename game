@@ -6,7 +6,7 @@ class Question():
         self.question = question
         self.right_answer = right_answer
         self.wrong1 = wrong1
-        self.wrong2 = wrong2()
+        self.wrong2 = wrong2
         self.wrong3 = wrong3
 
 questions_list = []
